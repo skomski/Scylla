@@ -120,6 +120,9 @@
     <ClCompile Include="DonateGui.cpp">
       <Filter>Quelldateien\GUI</Filter>
     </ClCompile>
+    <ClCompile Include="IATReferenceScan.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -222,6 +225,9 @@
       <Filter>Headerdateien\GUI</Filter>
     </ClInclude>
     <ClInclude Include="FunctionExport.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="IATReferenceScan.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
